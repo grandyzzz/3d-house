@@ -1,4 +1,4 @@
-# Three.js Journey
+# 3D House
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -6,11 +6,11 @@ Run this followed commands:
 
 ``` bash
 # Install dependencies (only the first time)
-npm install
+yarn
 
-# Run the local server at localhost:8080
-npm run dev
+# Run the local server at localhost:5173
+yarn dev
 
 # Build for production in the dist/ directory
-npm run build
+yarn build
 ```
